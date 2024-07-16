@@ -80,6 +80,7 @@ O backend estará disponível em `http://localhost:3001`.
     ```
 
 O frontend estará disponível em `http://localhost:3000`.
+**LEMBRANDO RODE O FRONTEND E O BACKEND JUNTOS UM EM CADA TERMINAL**
 
 ## Uso pela Net 
 Basta acessar este link para ver a aplicação pela web : https://cadastroprodutoapp.netlify.app/
